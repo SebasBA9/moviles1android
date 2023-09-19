@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mobile 1</string>
+    <string name="first_partial">First Partial</string>
+    <string name="second_partial">Second Partial</string>
+    <string name="third_partial">Third Partial</string>
+    <string name="padel_score">Padel score</string>
+    <string name="even_or_odd">Even Or Odd</string>
+    <string name="flip">flip</string>
+    <string name="random">random</string>
+    <String name="cards">Cards</String>
+    <String name="number">Number</String>
+    <String name="exam">Exam</String>
+
+</resources>
